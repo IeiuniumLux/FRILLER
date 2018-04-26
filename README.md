@@ -9,7 +9,6 @@ On a level dirt path, FRILLER can drive about 2000 feet (610 meters) on one batt
 FRILLER employees an Raspberry Pi 3b running the Android Things embedded OS platforml which receives command via WiFi to control the motors though the Adafruit motor hat. 
 
 ![fritzing](/images/FRILLER.jpg)
-
 For testing purposes, it was easy to use the TouchOSC app to send UDP packets to the robot; which was also cheaper than the traditional hobby RC.  However, you will have to setup your Android device as an access point (hotspot) so the FRILLER can connect to it; which is needed for field tests.
 
 ![touchosc](/images/TouchOSC.png)
