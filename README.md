@@ -28,6 +28,7 @@ Part             | Qty
 [Voltage and Current Sense Breakout](https://www.sparkfun.com/products/9028)<br />*or similar* | 1 
 [Lithium Ion batter](https://www.gettitanpower.com/pages/3-5ah-11-1v-60w-endurance)<br /> | 1
 [XT60 Connector](https://www.pololu.com/product/2158)<br /> | 1
+[Vytaflex-60](https://shop.smooth-on.com/vytaflex-60)<br /> | 1
 
 ## References
 - [NASA Game On](https://gameon.nasa.gov/)
