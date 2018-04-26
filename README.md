@@ -7,7 +7,7 @@ The FRILLER prototype is a compact robot that can change the radius of its wheel
 FRILLER employees an Raspberry Pi 3b running the Android Things embedded OS platform; which receives command via WiFi to control the motors though the Adafruit motor hat. The wheel deformation mechanism is composed of two DC geared motors, sliding racks, and an elastic cord. When the motors push out the racks, the wheel diameter becomes larger. The elastic cord around the wheels assists with the return of the petals to the close position when the motors pull the racks back inside. The wheels remain round for faster travel, but transform into spikes to overcome obstacles.
 
 ![fritzing](/images/FRILLER.jpg)
-For testing purposes, it was easy to use the TouchOSC app to send UDP packets to the robot; which was also cheaper than the traditional hobby RC.  However, you will have to setup your Android device as an access point (hotspot) so the FRILLER can connect to it; which is needed for field tests.
+For testing purposes, it was easy to use the [TouchOSC app](https://play.google.com/store/apps/details?id=net.hexler.touchosc_a&hl=en_US) to send UDP packets to the robot; which was also cheaper than the traditional hobby RC.  However, you will have to setup your Android device as an access point (hotspot) so the FRILLER can connect to it; which is useful for field tests.
 
 ![touchosc](/images/TouchOSC.png)
 ### What you'll need
