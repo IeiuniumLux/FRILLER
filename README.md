@@ -14,6 +14,7 @@ For testing purposes, it was easy to use the [TouchOSC app](https://play.google.
 
 - [Android Studio 3.0+](https://developer.android.com/studio/index.html).
 - Flash Android Things on the Raspberry Pi 3 (instructions [here](https://developer.android.com/things/hardware/raspberrypi.html)).
+- [TouchOSC](https://play.google.com/store/apps/details?id=net.hexler.touchosc_a&hl=en_US).
 - The following individual components:
 
 Part             | Qty 
