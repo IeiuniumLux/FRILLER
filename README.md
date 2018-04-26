@@ -1,7 +1,13 @@
 # FRILLER
-The FRILLER prototype is a compact robot that can change the radius of its wheels to overcome obstacles.
+The FRILLER prototype is a compact robot that can change the radius of its wheels to overcome obstacles. It can be used to explore extreme terrains and reach targets of interest. The wheel deformation mechanism is composed of two DC geared motors, sliding racks, and an elastic cord. When the motors push out the racks, the wheel diameter becomes larger. The elastic cord around the wheels assists with the return of the petals to the close position when the motors pull the racks back inside. The wheels remain round for faster travel, but transform into spikes to overcome obstacles.
+
+On a level dirt path, FRILLER can drive about 2000 feet (610 meters) on one battery charge. That could fluctuate a bit depending on how much any onboard instruments are used though. Besides desert conditions, FRILLER has also been outfitted for snow. Its expanded wheels and flat fishtail allows it to traverse wintry terrain.
 
 [![demo](/images/FRILLER.gif)]()
+
+## How it works
+FRILLER employees an Raspberry Pi 3b running the Android Things embedded OS platforml which receives command via WiFi to control the motors though the Adafruit motor hat. For testing purposes, it was easy to use the TouchOSC app to send UDP packets to the robot; which was also cheaper than the traditional hobby RC.  However, you will have to setup your Android device as an access point (hotspot) so the FRILLER can connect to it; which is needed for field tests.
+![touchosc](/images/TouchOSC.png)
 
 ### What you'll need
 
