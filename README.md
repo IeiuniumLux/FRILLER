@@ -30,5 +30,5 @@ Part             | Qty
 [XT60 Connector](https://www.pololu.com/product/2158)<br /> | 1
 
 ## References
-[NASA Game On](https://gameon.nasa.gov/)
-[Differential Drive Kinematics](https://chess.eecs.berkeley.edu/eecs149/documentation/differentialDrive.pdf)
+- [NASA Game On](https://gameon.nasa.gov/)
+- [Differential Drive Kinematics](https://chess.eecs.berkeley.edu/eecs149/documentation/differentialDrive.pdf)
