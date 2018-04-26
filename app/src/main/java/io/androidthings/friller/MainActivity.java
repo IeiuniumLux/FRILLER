@@ -106,13 +106,7 @@ public class MainActivity extends Activity implements UDPListener {
                     Log.d(TAG, "OPEN");
                     new CountDownTimer(320, 1000) {
                         public void onTick(long millisUntilFinished) {
-//                            try {
-//                                if (mFrontSwitch.getValue() || mBackSwitch.getValue()) {
-//                                    Log.d(TAG, "TRUE");
-//                                }
-//                            } catch (IOException e) {
-//                                Log.e(TAG, "Error reading GPIO");
-//                            }
+
                         }
 
                         public void onFinish() {
