@@ -152,7 +152,7 @@ public class MainActivity extends Activity implements UDPListener {
                 inByte = inputStream.read();
             }
             // Decimal ASCII values for X = 88 | Y = 89 | B = 66 | C = 67
-            if (_inByteIndex == 0 && (inByte == 88 || inByte == 88 || inByte == 66 || inByte == 67)) {
+            if (_inByteIndex == 0 && (inByte == 88 || inByte == 89 || inByte == 66 || inByte == 67)) {
                 switch (inByte) {
                     case (88): // Steering
                         oscControl = 'X';
@@ -188,11 +188,11 @@ public class MainActivity extends Activity implements UDPListener {
 
                     switch (oscControl) {
                         case ('X'): // Steering
-                            mX = value;
+                            mX = 0 - value;
                             differentialDrive(mX, mY);
                             break;
                         case ('Y'): // Throttle
-                            mY = 0 - value;
+                            mY = value;
                             differentialDrive(mX, mY);
                             break;
                         case ('B'): // Stop Button
