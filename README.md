@@ -31,6 +31,11 @@ Part             | Qty
 [XT60 Connector](https://www.pololu.com/product/2158)<br /> | 1
 [Vytaflex-60](https://shop.smooth-on.com/vytaflex-60)<br /> | 1
 
+## Improvements
+- Add GPS and compass sensors for position control.
+- Replace FRILLER's 3D printer body with a liter, but flexible structure; capable to resist high temperatures and handle impacts from a fall.
+- Make FRILLER smarter. Right now, it runs off WiFi and can be controlled remotely, but we'd like to add autonomy.
+
 ## References
 - [Differential Drive Kinematics](https://chess.eecs.berkeley.edu/eecs149/documentation/differentialDrive.pdf)
 - [Systems and Methods for Mobile Robot Positioning](http://www-personal.umich.edu/~johannb/Papers/pos96rep.pdf)
