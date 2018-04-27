@@ -34,7 +34,7 @@ Part             | Qty
 ## Improvements
 - Add GPS and compass sensors for position control.
 - Replace the 3D printed body with a light flexible structure; capable to resist high temperatures and handle impacts from a fall.
-- Make FRILLER smarter. Right now, it runs off WiFi and can be controlled remotely, but we'd like to add autonomy.
+- Make FRILLER smarter. Right now, it runs off WiFi and can be controlled remotely, but I'd like to add autonomy.
 
 ## References
 - [Differential Drive Kinematics](https://chess.eecs.berkeley.edu/eecs149/documentation/differentialDrive.pdf)
