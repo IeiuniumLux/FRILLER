@@ -31,5 +31,6 @@ Part             | Qty
 [Vytaflex-60](https://shop.smooth-on.com/vytaflex-60)<br /> | 1
 
 ## References
-- [NASA Game On](https://gameon.nasa.gov/)
 - [Differential Drive Kinematics](https://chess.eecs.berkeley.edu/eecs149/documentation/differentialDrive.pdf)
+- [Systems and Methods for Mobile Robot Positioning](http://www-personal.umich.edu/~johannb/Papers/pos96rep.pdf)
+- [NASA Game On](https://gameon.nasa.gov/)
