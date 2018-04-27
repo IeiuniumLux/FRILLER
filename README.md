@@ -22,7 +22,7 @@ Part             | Qty
 [Raspberry Pi 3 Model B](https://www.adafruit.com/product/3055)<br /> | 1 
 [DC & Stepper Motor HAT](https://www.adafruit.com/product/2348)<br /> | 1 
 [Extra Tall Header](https://www.adafruit.com/product/1979)<br /> | 1
-[3mm SS Pegs Fasten](https://www.amazon.com/gp/product/B00B3MFWY8/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1)<br /> | 1
+[3mm Pegs (package of 100)](https://www.amazon.com/gp/product/B00B3MFWY8/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1)<br /> | 1
 [Micro-B USB DIY Connector](https://www.adafruit.com/product/1390)<br /> | 1
 [50:1 Brushed DC Gearmotor](https://www.pololu.com/product/1104)<br /> | 2 
 [Solarbotics Geamotor 90deg Output](https://www.pololu.com/product/181)<br /> | 2 
