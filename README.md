@@ -1,5 +1,5 @@
 # FRILLER
-FRILLER is a 3D printed compact robot that changes the radius of its wheels to overcome obstacles. It can be used to explore extreme terrains and reach targets of interest. On a level dirt path, FRILLER can drive about 2000 feet (610 meters) on one battery charge. That could fluctuate a bit depending on how much any onboard instruments are used though. Besides desert conditions, FRILLER has also been outfitted for snow. Its expanded wheels and flat fishtail allows it to traverse wintry terrain.
+FRILLER is a 3D printed compact robot that changes the radius of its wheels to overcome obstacles. It can be used to explore extreme terrains and reach targets of interest. On a level dirt path, FRILLER can drive about 2000 feet (610 meters) on one battery charge. That could fluctuate a bit depending on how much any onboard instruments or sensor are used. Besides desert conditions, FRILLER has also been outfitted for snow. Its expanded wheels and flat fishtail allows it to traverse wintry terrain.
 
 [![demo](/images/FRILLER.gif)]()
 
