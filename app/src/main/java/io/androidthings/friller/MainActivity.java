@@ -151,14 +151,14 @@ public class MainActivity extends Activity implements UDPListener {
                 _inByteIndex = 0; // a new message received so set array index to 0
                 inByte = inputStream.read();
             }
-            // Decimal ASCII values for T = 84 | S = 83 | B = 66 | C = 67
-            if (_inByteIndex == 0 && (inByte == 84 || inByte == 83 || inByte == 66 || inByte == 67)) {
+            // Decimal ASCII values for X = 88 | Y = 89 | B = 66 | C = 67
+            if (_inByteIndex == 0 && (inByte == 88 || inByte == 88 || inByte == 66 || inByte == 67)) {
                 switch (inByte) {
-                    case (84): // Throttle
-                        oscControl = 'T';
+                    case (88): // Steering
+                        oscControl = 'X';
                         break;
-                    case (83): // Steering
-                        oscControl = 'S';
+                    case (89): // Throttle
+                        oscControl = 'Y';
                         break;
                     case (66): // Button
                         oscControl = 'B';
@@ -187,12 +187,12 @@ public class MainActivity extends Activity implements UDPListener {
                     float value = getOSCValue(byteBuffer.array());
 
                     switch (oscControl) {
-                        case ('T'): // Throttle
-                            mY = value;
+                        case ('X'): // Steering
+                            mX = value;
                             differentialDrive(mX, mY);
                             break;
-                        case ('S'): // Steering
-                            mX = 0 - value;
+                        case ('Y'): // Throttle
+                            mY = 0 - value;
                             differentialDrive(mX, mY);
                             break;
                         case ('B'): // Stop Button
