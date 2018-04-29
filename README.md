@@ -1,7 +1,7 @@
 # FRILLER
 FRILLER (FRILL Explorer Robot) is a 3D printed compact robot that changes the radius of its wheels to overcome obstacles. It can be used to explore extreme terrains and reach targets of interest. On a level dirt path, FRILLER can drive about 2000 feet (610 meters) on one battery charge. That could fluctuate a bit depending on how much any onboard instruments or sensor are used. Besides desert conditions, FRILLER has also been outfitted for snow. Its expanded wheels and flat fishtail allows it to traverse wintry terrain.
 
-[![demo](/images/FRILLER.gif)]()
+[![demo](/images/FRILLER.gif)](https://youtu.be/IRr8w6uVp10)
 
 ## How it works
 FRILLER employees a Raspberry Pi 3b running the Android Things embedded OS platform; which receives command via WiFi to control the motors though the Adafruit motor hat. The wheel deformation mechanism is composed of two DC geared motors, sliding racks, and an elastic cord. When the motors push out the racks, the wheel diameter becomes larger. The elastic cord around the wheels assists with the return of the spikes to the close position when the motors pull the racks back inside. The wheels remain round for faster travel on roads or indoors, but transform into spikes to overcome obstacles off-road.
