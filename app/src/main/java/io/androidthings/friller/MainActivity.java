@@ -212,7 +212,7 @@ public class MainActivity extends Activity implements UDPListener {
                             this.runOnUiThread(new Runnable() {
                                 @Override
                                 public void run() {
-                                    new CountDownTimer(320, 1000) {
+                                    new CountDownTimer(310, 1000) {
                                         public void onTick(long millisUntilFinished) {
 
                                         }
