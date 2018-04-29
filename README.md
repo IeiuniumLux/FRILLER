@@ -37,7 +37,7 @@ Part             | Qty
 - Replace the 3D printed body with a lighter and flexible structure; capable to resist high temperatures and handle impacts from a fall.
 
 ## Acknowledgement
-The FRILLER prototype is based on former OSU student Carter Hurd's desing.
+The FRILLER prototype is based on former OSU student Carter Hurd's design.
 
 ## References
 - [Differential Drive Kinematics](https://chess.eecs.berkeley.edu/eecs149/documentation/differentialDrive.pdf)
