@@ -32,9 +32,12 @@ Part             | Qty
 [Vytaflex-60](https://shop.smooth-on.com/vytaflex-60)<br /> | 1
 
 ## Improvements
-- Add GPS and compass sensors for position control.
-- Replace the 3D printed body with a light flexible structure; capable to resist high temperatures and handle impacts from a fall.
 - Make FRILLER smarter. Right now, it runs off WiFi and can be controlled remotely, but I'd like to add autonomy.
+- Add GPS and compass sensors for position control.
+- Replace the 3D printed body with a lighter and flexible structure; capable to resist high temperatures and handle impacts from a fall.
+
+## Acknowledgement
+The FRILLER prototype is based on former OSU student Carter Hurd's desing.
 
 ## References
 - [Differential Drive Kinematics](https://chess.eecs.berkeley.edu/eecs149/documentation/differentialDrive.pdf)
