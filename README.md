@@ -40,7 +40,7 @@ Part             | Qty
 The FRILLER prototype is based on former OSU student Carter Hurd's design.
 
 ## References
-- [Differential Drive Kinematics](https://chess.eecs.berkeley.edu/eecs149/documentation/differentialDrive.pdf)
+- [Differential-Drive Trackers](https://www.coursera.org/lecture/mobile-robot/differential-drive-trackers-NORKS)
 - [Systems and Methods for Mobile Robot Positioning](http://www-personal.umich.edu/~johannb/Papers/pos96rep.pdf)
 - [NASA Game On](https://gameon.nasa.gov/)
 
