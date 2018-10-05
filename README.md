@@ -39,7 +39,7 @@ Part             | Qty
 ## Acknowledgement
 The FRILLER prototype is based on former OSU student Carter Hurd's design.
 
-## MagPi Magazine Article
+## MagPi Article
 - [English](https://magpi.us8.list-manage.com/track/click?u=e31349e35c9c4dfb8bdf10e69&id=f100d7c1a3&e=20df341f39#page=14)
 - [Simplified Chinese](https://github.com/TommyZihao/MagPi_Chinese/blob/master/MagPi74_14-15%E5%9F%BA%E4%BA%8E%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9A%84FRILLER%E5%A4%9A%E5%9C%B0%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA.md)
 
